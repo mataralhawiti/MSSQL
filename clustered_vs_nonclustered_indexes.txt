@@ -1,0 +1,9 @@
+https://voluntarydba.com/2012/10/02/the-primary-key-vs-the-clustered-index/
+
+
+https://www.youtube.com/watch?v=ITcOiLSfVJQ
+
+
+
+10.2 B Trees and B+ Trees. How they are useful in Databases
+https://www.youtube.com/watch?v=aZjYr87r1b8
